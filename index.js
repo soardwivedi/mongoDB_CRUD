@@ -30,3 +30,7 @@ app.listen(port, () => {
 });
 
 // change in code.
+//change2
+function add(x, y) {
+  console.log(x + y);
+}
